@@ -10,7 +10,7 @@ public class First {
 	{
 		int a = 10;
 		int b = 20;
-		System.out.println("sum of a + b:");
+		System.out.println("sum of a + b:"+(a+b));
 		System.out.println("This is m1() method in the first class");
 		
 	}
